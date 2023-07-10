@@ -1,0 +1,30 @@
+{
+    "id": "115",
+    "department": "",
+    "patients": [
+        {
+            "id": "1",
+                "first_name": "John",
+                "last_name": "Smith",
+                "diseases": []
+        }, 
+        {
+            "id": "2",
+            "first_name": "Jenny",
+            "last_name": "Cox",
+            "diseases": [
+                "used_to_have_dredds",
+                "nice_to_people"
+            ]
+        },
+        {
+            "id": "3",
+            "first_name": "",
+            "last_name": "Lewis",
+            "diseases": [
+                "chocaholic",
+                "great_haircut"
+            ]
+        }
+    ]
+}

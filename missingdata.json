@@ -1,0 +1,28 @@
+{
+    "id": "130",
+    "patients": [
+        {
+            "id": "1",
+                "first_name": "John",
+                "last_name": "Smith",
+                "diseases": [
+                    "nice_to_people",
+                    "long_legs",
+                    "weird_elbow"
+                ]
+        }, 
+        {
+            "id": "2",
+            "first_name": "Jenny"
+        },
+        {
+            "id": "3",
+            "first_name": "Martin",
+            "last_name": "Lewis",
+            "diseases": [
+                "chocaholic",
+                "great_haircut"
+            ]
+        }
+    ]
+}
